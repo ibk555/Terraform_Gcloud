@@ -1,2 +1,2 @@
-# Terraform_Gclod
+# Terraform_Gcloud
 Google cloud services provisioned with terraform
